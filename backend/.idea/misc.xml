@@ -5,7 +5,14 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/businesscontrol/pom.xml" />
+        <option value="$USER_HOME$/Downloads/serviceauth/serviceauth/pom.xml" />
+        <option value="$PROJECT_DIR$/serviceauth/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$USER_HOME$/Downloads/serviceauth/serviceauth/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="21" project-jdk-type="JavaSDK">
